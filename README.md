@@ -7,6 +7,7 @@
 - ipconfig - show whole networkparameters
 - ts - timestamp files
 - cya - backup and snapshot utility for linux
+- bu - backup usb tool
 
 
 
